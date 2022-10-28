@@ -4,6 +4,6 @@
 
 ##### O utilizado para a tarefa contém 78 mil imagens de gestos representando 26 diferentes classes, onde cada uma tem 3000 exemplos, relacionadas ao alfabeto de linguagem de sinais, obtido através da plataforma Kaggle (https://www.kaggle.com/datasets/grassknoted/asl-alphabet), feito por Akash Nagaraj.
 
-##### O drive https://drive.google.com/drive/folders/1EXxd8UHTyJF5WjxCEOMH1efQaBEzwJot?usp=sharing contém tanto os arquivos com os modelos treinados, que são usados no notebook "real_time_interpretation" quanto os dados utilizados para treino e teste dos modelos que são originalmente distribuidos pelo link do Kaggle acima.
+##### O drive https://drive.google.com/drive/folders/1EXxd8UHTyJF5WjxCEOMH1efQaBEzwJot?usp=sharing contém os arquivos com os modelos treinados, que são usados no notebook "real_time_interpretation".
 
 ##### O notebook "models" trata-se do treinamento dos modelos utilizados no projeto e o notebook "real_time_interpretation" realiza a captação e a interpretação do alfabeto de linguagens de sinais em tempo real. 
