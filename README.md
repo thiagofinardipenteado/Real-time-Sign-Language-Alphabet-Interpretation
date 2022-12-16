@@ -1,4 +1,4 @@
-# Real-time-Sign-Language-Interpretation
+# Real time Sign Language Alphabet Interpretation
 
 ##### Monografia "Reconhecimento de Linguagem de Sinais em Tempo Real Através de Redes Neurais Convolucionais Profundas" realizada por Thiago Finardi Penteado eapresentada ao Curso de Engenharia de Produção, da Escola de Engenhariade São Carlos da Universidade de São Paulo,como parte dos requisitos para obtenção do título de Engenheiro de Produção.
 
